@@ -1,6 +1,6 @@
 ### Julian-Samuel Gebühr
 
-I am a student of medical informatics in my masters and work in infosec. Prio to that I studied medical engineering and worked in Neuroscience.
+I am a student of medical informatics in my masters and work in infosec. Prior to that I studied medical engineering and worked in Neuroscience.
 Feel free to reach out to me about anything you see here!
 
 ## Basic information
