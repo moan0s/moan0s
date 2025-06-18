@@ -1,6 +1,6 @@
 ### Julian-Samuel Gebühr
 
-* Working for DKMS as a business analyst, does coding as a hobby. Mostly does stuff with Python, Django and Ansible
+* Working for [DKMS](http://dkms.org/) as a business analyst, does coding as a hobby. Mostly does stuff with Python, Django and Ansible
 * Studied medical informatics (M.sc.) and medical engineering (B.Sc.)
 * Work experience in
     + infosec
